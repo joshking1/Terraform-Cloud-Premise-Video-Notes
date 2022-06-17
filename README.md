@@ -1,6 +1,12 @@
 # Terraform-Cloud-Premise-Video-Notes
 
-Important Commands 
+Describe your Availability Zones
+
+aws ec2 describe-availability-zones --region region-name 
+
+or 
+
+aws ec2 describe-availability-zones --all-availability-zones
 
 # Provisioning Infrastructure with Terraform
 
