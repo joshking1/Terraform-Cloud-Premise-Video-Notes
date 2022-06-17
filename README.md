@@ -8,6 +8,10 @@ or
 
 aws ec2 describe-availability-zones --all-availability-zones
 
+url - Repository 
+
+https://github.com/joshking1/Terraform-Cloud-Premise-Video-Notes.git
+
 # Provisioning Infrastructure with Terraform
 
 Terraform's primary function is to create, modify, and destroy infrastructure resources to match the desired state described in a Terraform configuration.
